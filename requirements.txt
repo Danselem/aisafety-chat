@@ -1,0 +1,14 @@
+streamlit
+watchdog
+arxiv
+pymupdf
+langchain
+unstructured
+langchain-nvidia-ai-endpoints==0.0.19
+langchain-google-genai
+python-dotenv
+langchain_community
+langchain-pinecone
+pinecone-client[grpc]
+langserve
+sse_starlette
